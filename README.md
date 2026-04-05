@@ -1,4 +1,4 @@
-# context-relay
+# Claude-context-handover
 
 > A Claude/agentic-CLI skill that monitors token usage and generates a barrier-free **handover prompt** when the context window is about to run out — so you can continue any task in a fresh session with zero progress lost.
 
